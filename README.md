@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left">🇧🇷 **Brasileiro, natural de Manaus, Amazonas.**  <br>🎓 **Graduando em Engenharia de Software** na **FUCAPI** - Fundação Centro de Análise Pesquisa e Inovação Tecnológica.  <br>💻 **Desenvolvedor de Software** apaixonado por tecnologia e inovação.  <br>💼 **Consultor na TOTVS Norte**, atuando com **análise de dados** para apoiar empresas na **tomada de decisões estratégicas**.  <br>🚀 **Experiência em:** JavaScript, React, React Native, Node.js, SQL, Python, C#.  <br>📚 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades.  <br><br>
-### 🛠️ **Tecnologias que utilizo:**  <br>- 🔹 **Frontend:** React, React Native, Next.js  <br>- 🔹 **Backend:** Node.js, Express, NestJS  <br>- 🔹 **Banco de Dados:** OracleDB, MySQL  <br>- 🔹 **Ferramentas:** Git, CI/CD</p>
+<p align="left">🇧🇷 Brasileiro, natural de Manaus, Amazonas.  <br>🎓 Graduando em Engenharia de Software na FUCAPI - Fundação Centro de Análise Pesquisa e Inovação Tecnológica.  <br>💻 Desenvolvedor de Software apaixonado por tecnologia e inovação.  <br>💼 Consultor na TOTVS Norte, atuando com análise de dados para apoiar empresas na tomada de decisões estratégicas.  <br>🚀 Experiência em: JavaScript, React, React Native, Node.js, SQL, Python, C#.  <br>📚 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades.  <br><br>
+### 🛠️ Tecnologias que utilizo:  <br>- 🔹 Frontend: React, React Native, Next.js  <br>- 🔹 Backend: Node.js, Express, NestJS  <br>- 🔹 Banco de Dados: OracleDB, MySQL  <br>- 🔹 Ferramentas: Git, CI/CD</p>
 
 ###
 
