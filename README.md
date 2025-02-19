@@ -1,4 +1,4 @@
-<h1 align="left">👋 Bem-vindo ao meu GitHub!  <br>Sou Lucas  Chaves, desenvolvedor de software apaixonado por tecnologia.</h1>
+<h1 align="left">👋 Bem-vindo ao meu GitHub!  <br>Sou Lucas  Chaves.</h1>
 
 ###
 
